@@ -1,0 +1,10 @@
+{
+	"id": "extra-shortcuts",
+	"name": "Extra Shortcuts",
+	"version": "0.1.1",
+	"minAppVersion": "0.15.6",
+	"description": "Adds a few extra shortcuts: hover note, underlines",
+	"author": "imwillg",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
